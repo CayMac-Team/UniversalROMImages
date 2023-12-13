@@ -1,6 +1,13 @@
 # Universal ROMs
 ROM Images for Quadra/LC &amp; Others
 
+You must have & use one of our new Universal ROM SIMMs in either 8MB or 4MB as this ROM has the ability to sense what machine it is in and adapat the SIMM to use the proper pinning for the machine. The Universal ROM will work in any of the original Macintosh IIsi base ROM compatible machines including the SE/30. When the LED on the SIMM is on, it is in the IIsi mode (in programmer and machine). When LED is off, it is in the LC/Quadra mode. It would be beneficial for you to have a ROMmate v2 programmer to change the image on your ROM SIMM.
+
+[Universal ROM SIMMs can be found here](https://ko-fi.com/s/2bee7a6f82)
+
+
+[ROMmate v2 Programmer can be found here](https://ko-fi.com/s/d6e7e4494d)
+
 ### LIMITATION
 Boot from ROM is only working with ZuluSCSI or blueSCSI attached. Will NOT work with others or spinner drives. This is a known issue at this time with all intentions to have a fix for it soon.
 
