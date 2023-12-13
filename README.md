@@ -20,7 +20,7 @@ Director for LC475/LC575/Q650
 **Notes**
   - Q650 supports large RAM
   - RAM check disabled for all
-  - ROMs with a boot SYSTEM - hold R to load from ROM or hold A & R to load from ROM into a RAM drive (16mb or more RAM required). Hold key(s) once arrow appears and before the happy Mac boot icon appears. After icon appears, you can release the key(s).
+  - ROMs with a boot SYSTEM - hold R to load from ROM or hold A & R to load from ROM into a RAM drive (16mb or more RAM required). Hold key(s) as soon as the arrow appears and before the happy Mac boot icon. After icon appears, you can release the key(s).
 
   **Files**
   - LC475_Q650.ZIP - For LC475/LC575/Q650
