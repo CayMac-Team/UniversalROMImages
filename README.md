@@ -9,7 +9,7 @@ ROM modifactions is a Work In Progress and not all is 100% operational. Constant
 
 # Current ROM Images
 Director for LC475/LC575/Q650
-  **Notes**
+**Notes**
   - Q650 supports large RAM
   - RAM check disabled for all
   - ROMs with a boot SYSTEM - hold R to load from ROM or hold A & R to load from ROM into a RAM drive (16mb or more RAM required). Hold key(s) once arrow appears and before the happy Mac boot icon appears. After icon appears, you can release the key(s).
