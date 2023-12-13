@@ -17,4 +17,4 @@ Director for LC475/LC575/Q650
 
   **Files**
   - LC475_Q650.ZIP - For LC475/LC575/Q650
-  - LC475_Q650_WITH_SYSTEM.ZIP - Same as above but with a BOOT image OS7.1 with enabler for LC475/LC575/Q650
+  - LC475_Q650_WITH_SYSTEM.ZIP - Contains a BOOT image OS7.1 with enabler for LC475/LC575/Q650
