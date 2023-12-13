@@ -1,4 +1,4 @@
-# Universal ROM Information
+# Universal ROMs
 ROM Images for Quadra/LC &amp; Others
 
 ### LIMITATION
