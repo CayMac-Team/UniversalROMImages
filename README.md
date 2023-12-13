@@ -6,7 +6,6 @@ ROMs with a boot SYSTEM - hold R to load from ROM or hold A & R to load from ROM
 LIMITATION: Boot from ROM is only working with ZuluSCSI or blueSCSI attached. Will NOT work with others or spinner drives.
 
 **WARNING**
-
 ROM modifactions is a Work In Progress and not all is 100% operational. Constant code changes are being made and new images released to provide additional features and abilities to the ROM images. Use at your own RISK and CayMac Vintage not its team members are liable. There is NO warranty provided. This is a hobby for us all as such, treat it that way.
 
 # Current Images
