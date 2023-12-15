@@ -15,7 +15,7 @@ Boot from ROM is only working with ZuluSCSI or blueSCSI attached. Will NOT work 
 ROM modifactions is a Work In Progress and not all is 100% operational. Constant code changes are being made and new images released to provide additional features and abilities to the ROM images. Use at your own RISK and CayMac Vintage nor any of its team members are liable. There is NO warranty provided. This is a hobby for us all as such. DO NOT use the earlier standard ROM in a Quadra or LC machine as the pinout is differend and it WILL damage the ROM SIMM.
 
 # Current ROM Images
-Director for LC475/LC575/Q650
+### Directory for LC475/LC575/Q650
 
 **Notes**
   - Q650 supports large RAM
@@ -26,7 +26,7 @@ Director for LC475/LC575/Q650
   - LC475_Q650.ZIP - For LC475/LC575/Q650
   - LC475_Q650_WITH_SYSTEM.ZIP - Contains a BOOT image OS7.1 with enabler for LC475/LC575/Q650
 
-Director for Q700_Q900_Q950
+### Directory for Q700_Q900_Q950
 
 **Notes**
   - No Checksum check
