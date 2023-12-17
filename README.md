@@ -1,7 +1,7 @@
 # Universal ROMs
 ROM Images for Quadra/LC &amp; Others
 
-You must have & use one of our new Universal ROM SIMMs in either 8MB or 4MB as this ROM SIMM has the ability to sense what machine it is in and adapat to use the proper pinning for the machine. The Universal ROM will work in any of the original Macintosh IIsi base ROM compatible machines including the SE/30. When the LED on the SIMM is on, it is in the IIsi mode (in programmer and machine). When LED is off, it is in the LC/Quadra mode. It would be beneficial for you to have a ROMmate v2 programmer to change the image on your ROM SIMM. Most LC and Quadra machines have the location for a 64 pin ROM SIMM socket but the socket is not on the board. You will have to source and add this socket yourself or have someone else do it for you.
+You must have & use one of our new Universal ROM SIMMs in either 8MB or 4MB as this ROM SIMM has the ability to sense what machine it is in and adapat to use the proper pinning for the machine. The Universal ROM will work in any of the original Macintosh IIsi base ROM compatible machines including the SE/30. When the LED on the SIMM is on, it is in the IIsi mode (in programmer and machine). When LED is off, it is in the LC/Quadra mode. It would be beneficial for you to have a ROMmate v1 or v2 programmer to change the image on your ROM SIMM. Most LC and Quadra machines have the location for a 64 pin ROM SIMM socket but the socket is not on the board. You will have to source and add this socket yourself or have someone else do it for you. When you purchase a ROM SIMM from CayMac Vintage, you have an option to add a 64 pin simm socket with metal clips.
 
 [Universal 8MB ROM SIMMs can be found here](https://ko-fi.com/s/2bee7a6f82)
 
