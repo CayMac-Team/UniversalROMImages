@@ -20,6 +20,7 @@ ROM modifactions is a Work In Progress and not all is 100% operational. Constant
 **Notes**
   - Works on 610/650/800/475/575
   - Boot image has 040/065 enabler
+  - Boot imase is OS7.1
   - Q650 supports large RAM
   - RAM check disabled
   - No checksum check
