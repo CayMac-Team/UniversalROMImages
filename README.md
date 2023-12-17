@@ -21,7 +21,9 @@ ROM modifactions is a Work In Progress and not all is 100% operational. Constant
   - Works on 610/650/800/475/575
   - Boot image has 040/065 enabler
   - Boot imase is OS7.1
-  - Q650 supports large RAM
+  - djMEMC Large RAM support for 610/650/800
+    - 610 - 250MB
+    - 650/800 - 520MB 
   - RAM check disabled
   - No checksum check
   - ROMs with a boot SYSTEM - hold R to load from ROM or hold A & R to load from ROM into a RAM drive (16mb or more RAM required). Hold key(s) as soon as the arrow appears and before the happy Mac boot icon. After icon appears, you can release the key(s).
