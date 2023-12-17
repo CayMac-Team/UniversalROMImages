@@ -15,7 +15,7 @@ Boot from ROM is only working with ZuluSCSI or blueSCSI attached. Will NOT work 
 ROM modifactions is a Work In Progress and not all is 100% operational. Constant code changes are being made and new images released to provide additional features and abilities to the ROM images. Use at your own RISK and CayMac Vintage nor any of its team members are liable. There is NO warranty provided. This is a hobby for us all as such. DO NOT use the earlier standard ROM in a Quadra or LC machine as the pinout is differend and it WILL damage the ROM SIMM.
 
 # Current ROM Images
-### Directory for LC475_LC575_Q650
+### Directory LC475_LC575_Q650
 
 **Notes**
   - Works on 610/650/800/475/575
@@ -33,7 +33,7 @@ ROM modifactions is a Work In Progress and not all is 100% operational. Constant
     - **LC475_LC575_Q650.ROM** - Base ROM only no Boot Image 1MB file size can put on any SIMM alone
     - **3MB_SYSTEM_BOOT_ENB_040_065.DSK** - Boot Image 3MB file size add to Base ROM to make a 4MB ROM SIMM. Can also boot on blueSCSI or emulator
 
-### Directory for Q700_Q900_Q950
+### Directory Q700_Q900_Q950
 
 **Notes**
   - No checksum check
