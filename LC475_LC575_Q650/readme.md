@@ -1,8 +1,9 @@
-### Directory for LC475_LC575_Q650
+### Works on 610/650/800/475/575
 
 **Notes**
   - Works on 610/650/800/475/575
   - Boot image has 040/065 enabler
+  - Boot image is OS7.1
   - Q650 supports large RAM
   - RAM check disabled
   - No checksum check
