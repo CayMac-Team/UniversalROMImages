@@ -1,7 +1,7 @@
 ### Works on 610/650/800/475/575
 
 **Notes**
-  - Works on 610/650/800/475/575
+  - Works on 605/610/650/800/475/575
   - Boot image has 040/065 enabler
   - Boot image is OS7.1
   - djMEMC Large RAM support for 610/650/800
