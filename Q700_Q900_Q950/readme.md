@@ -9,3 +9,4 @@
   **File(s)**
   - Quadra 950_no_mem_no_checksum_ROM_drive_4MB_System.ROM - Base ROM with 3MB boot image for 4MB rom simm
   - Quadra 950_no_mem_no_checksum_ROM_drive_8MB_System.ROM - Base ROM with 7MB boot image for 8MB rom simm
+  - Quadra 950_no_mem_no_checksum_ROM_driver_BASE.ROM - Base ROM with no boot image
