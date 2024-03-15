@@ -9,10 +9,10 @@ You must have & use one of our new Universal ROM SIMMs in either 8MB or 4MB as t
 [ROMmate v2 Programmer can be found here](https://ko-fi.com/s/d6e7e4494d)
 
 ### LIMITATION
-Boot from ROM is only working with ZuluSCSI or blueSCSI attached. Will NOT work with others or spinner drives. This is a known issue at this time with all intentions to have a fix for it soon.
+Boot from ROM is only working with ZuluSCSI or blueSCSI attached. Will NOT work with others or spinner drives. This is a known issue at this time with all intentions to have a fix in the future.
 
 ### **WARNING & Use At Own Risk Statement**
-ROM modifactions is a Work In Progress and not all is 100% operational. Constant code changes are being made and new images released to provide additional features and abilities to the ROM images. Use at your own RISK and CayMac Vintage nor any of its team members are liable. There is NO warranty provided. This is a hobby for us all as such. DO NOT use the earlier standard ROM in a Quadra or LC machine as the pinout is differend and it WILL damage the ROM SIMM.
+ROM modifactions is a Work In Progress and not all is 100% operational. Constant code changes are being made and new images released to provide additional features and abilities to the ROM images. Use at your own RISK and CayMac Vintage nor any of its team members are liable. There is NO warranty provided. This is a hobby for us all so treat it as such. DO NOT use the earlier standard ROM in a Quadra or LC machine as the pinout is differend and it WILL damage the ROM SIMM.
 
 # Current ROM Images
 ### Directory LC475_LC575_Q650
